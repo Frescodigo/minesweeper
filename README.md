@@ -5,6 +5,9 @@ Implemented in python using the pygame library
 - [X] Grid of tiles
 - [X] Placement of mines
 - [X] Placement of number hints in squares
-- [ ] Tiles can be clicked
-- [ ] Game can be won and lost
+- [X] Tiles can be clicked
+- [X] Game resets when lost
+- [X] First click guaranteed safe
+- [ ] Game can be won
+- [X] Ability to place flag
 - [ ] Guaranteed solvable board (the real goal of the project)
